@@ -1,0 +1,24 @@
+{
+    "name": "lzomedia/extract-nouns",
+    "description": "This package allows you to extract nous from a large string",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stefan Izdrail",
+            "email": "Stefan@lzomedia.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LzoMedia\\ExtractNouns\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5@dev"
+    }
+}
