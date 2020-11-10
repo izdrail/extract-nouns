@@ -17,11 +17,6 @@ or
 composer require lzomedia/extract-nouns
 ```
 
-after 
-
-```
-
-```
 ## Tests
 I have added some small test to check if system is working as described.
 
